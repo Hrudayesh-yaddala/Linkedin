@@ -1,0 +1,91 @@
+
+Name  : Praneeth Gundabattini
+Location  : Tenali, Andhra Pradesh, India
+About  : Intern at MeruData || Full Stack Developer ||Under Graduate in CSE (AI&ML)
+CERTIFICATIONS:
+Understanding Google Cloud Security and Operations---->(Google Cloud Training Online)
+Introduction to Programming Using Python---->(HackerRank)
+Associate Cloud Engineer - Google Cloud---->(Coursera)
+Professional Cloud Architect---->(Google Cloud)
+Automation Anywhere Certificate Advanced RPA Professional 2022---->(Google Cloud)
+SKILLS:
+AngularJS
+Angular Material
+Angular CLI
+ASP.NET Core
+Entity Framework (EF) Core
+MERN Stack
+Front-End Development
+SQL
+Amazon Web Services (AWS)
+Linux
+Back-End Web Development
+Cascading Style Sheets (CSS)
+React.js
+HTML
+Git
+Google Cloud Platform (GCP)
+MongoDB
+Full-Stack Development
+User Interface Design
+Django
+Front-End Development
+Back-End Web Development
+========================================= *END OF THE PROFILE* =====================================================================
+Name  : Rankela Sai Sri Harsha
+Location  : Pedakakani, Andhra Pradesh, India
+About  : CSE(AI&ML) UnderGrad | Seeking Full-Time Software Engineering Job | Experienced with Java and Python
+CERTIFICATIONS:
+AWS Academy Cloud Developing---->(Amazon Web Services (AWS))
+Java Intermediate---->(Sololearn)
+Microsoft Certified: Azure AI Fundamentals---->(Microsoft)
+Microsoft Certified: Azure Fundamentals---->(Microsoft)
+Programming, Data Structures And Algorithms Using Python---->(NPTEL)
+Python Intermediate---->(Sololearn)
+The Complete Python Bootcamp From Zero to Hero in Python---->(Udemy)
+AWS Academy Cloud Architecting---->(Amazon Web Services (AWS))
+AWS Academy Graduate - AWS Academy Cloud Operations---->(Amazon Web Services (AWS))
+Introduction to Programming Using HTML and CSS---->(HackerRank)
+Introduction to Programming Using Java---->(Sololearn)
+Java Basic---->(HackerRank)
+Python(Advanced)---->(StudySection)
+Python Foundation Certification---->(Infosys Springboard)
+Problem Solving(Basic)---->(HackerRank)
+Python(Basic)---->(HackerRank)
+AWS Academy Cloud Foundations---->(Amazon Web Services (AWS))
+Google Cloud Digital Leader---->(Google)
+Microsoft Certified Azure AI Engineer Associate---->(Microsoft)
+Microsoft Certified: Azure Developer Associate---->(Microsoft)
+SKILLS:
+Data Structures
+Algorithms
+SQL
+Leadership
+C (Programming Language)
+Machine Learning
+Artificial Intelligence (AI)
+Microsoft Azure
+Cloud Development
+Database Management System (DBMS)
+Cloud Foundation
+Java
+.NET Framework
+Cascading Style Sheets (CSS)
+HTML
+Problem Solving
+Cloud Computing
+========================================= *END OF THE PROFILE* =====================================================================
+Name  : Dharani Mahesh
+Location  : Guntur, Andhra Pradesh, India
+About  : CSE(AI &ML) UnderGrad
+CERTIFICATIONS:
+deeplearning.ai---->(Coursera)
+HackerRank---->(HackerRank)
+SKILLS:
+Engineering
+English
+Communication
+Problem Solving
+Microsoft Excel
+Python (Programming Language)
+========================================= *END OF THE PROFILE* =====================================================================
