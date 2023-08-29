@@ -9,7 +9,7 @@ from email.message import EmailMessage
 
 print("finished importing required packages")
 username='yaddalahrudayesh@gmail.com'
-password='Linkedin@99'
+password='*******'
 driver=webdriver.Chrome(executable_path='E:\\selenium_webdriver\\chromedriver')
 sleep(1)
 url = 'https://www.linkedin.com/login'
